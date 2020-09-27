@@ -1,0 +1,1 @@
+# smartGit_test
